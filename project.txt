@@ -1,0 +1,3 @@
+Add your activity updates here.
+
+2024-Oct-02: Opened project documentation file.
